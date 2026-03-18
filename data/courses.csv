@@ -1,0 +1,3 @@
+course_id,course_code,course_name,description,credits
+3001,DATA200,Programming for Data Analytics,Basics of Python Programming for numerical implementation of mathematical and statistical algorithms,3
+3003,DATA202,Math for Data Analytics,"Stats, calc, linear algebra",5

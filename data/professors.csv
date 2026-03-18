@@ -1,0 +1,3 @@
+professor_id,email_address,professor_name,rank,course_ids
+2001,luca@sjsu.edu,Luca Popescu,Senior Professor,"3001,3002"
+2002,prof@sjsu.edu,Prof,Lecturer,
